@@ -1,0 +1,5 @@
+com\people\springbootrestapi\controller\PersonaController.class
+com\people\springbootrestapi\PersonaApplication.class
+com\people\springbootrestapi\model\Persona.class
+com\people\springbootrestapi\dao\PersonaDAO.class
+com\people\springbootrestapi\repository\PersonaRepository.class
